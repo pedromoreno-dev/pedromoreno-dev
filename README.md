@@ -31,8 +31,9 @@
 
 ## 📫 Contact
 
-📧 [pedromorenotrenado@gmail.com](mailto:pedromorenotrenado@gmail.com)
-💼 https://www.linkedin.com/in/pedro-cmt-92023a93
+📧 [hola@pedromoreno.dev](mailto:hola@pedromoreno.dev)
+💼 https://www.linkedin.com/in/pedromoreno-dev
+🌐 https://pedromoreno.dev
 
 ---
 
